@@ -3,7 +3,7 @@ var width = 5;
 var topsss = screen.height;
 var left = screen.width - 420;
 window.open(
-  "http://localhost:3000/",
+  "https://fairos.video.wiki/",
   "newwin",
   `height=600px,width=600px,left=${left}`
 );

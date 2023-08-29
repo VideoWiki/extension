@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "HTML Appender",
     "version": "1.0",
-    "description": "Appends HTML to web pages",
+    "description": "VideoWiki Uploader",
     "permissions": [
         "activeTab"
     ],
