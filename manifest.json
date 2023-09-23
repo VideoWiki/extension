@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "VideoWiki Uploader",
+  "name": "VideoWiki Uploaderds",
   "version": "1.0",
   "description": "VideoWiki Uploader",
   "permissions": [
@@ -18,5 +18,15 @@
     "16": "vlogo.png",
     "48": "vlogo.png",
     "128": "vlogo.png"
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
 }
