@@ -1,4 +1,5 @@
-# extension
+# VideoWiki Uploader Extension 
+The VideoWiki Uploader Extension simplifies the process of connecting users to the Swarm-based decentralized storage of VideoWiki Uploader. 
 
 
 ## Installation
@@ -23,6 +24,5 @@ To run the VideoWiki Uploader Extension on your local Chrome browser, follow the
 
  4. **Extension Added:**
     You should see the VideoWiki Uploader Extension icon
-
 
 Please refer to following guide https://support.google.com/chrome/a/answer/2714278?hl=en  to publish the extension on chrome store
